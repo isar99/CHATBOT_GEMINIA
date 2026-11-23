@@ -1,0 +1,19 @@
+# Langchain Core
+langchain
+langchain-core
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+google
+
+# Environment Variables Management
+python-dotenv
+
+# Streamlit for building web apps
+streamlit
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+pydantic
